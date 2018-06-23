@@ -10,14 +10,3 @@ https://www.kickstarter.com/projects/idlehandsdev/pixo-pixel-an-esp32-based-iot-
 
 esp32 setup in Arduino IDE: https://github.com/espressif/arduino-esp32
 additional libraries needed:
-#include "I2Cdev.h"
-#include "image.h"
-#include "MPU6050.h"
-#include <Adafruit_DotStar.h>
-#include <Adafruit_DotStarMatrix.h>
-#include <Adafruit_GFX.h>
-#include <ArduinoJson.h>
-#include <Fonts/FreeMonoOblique9pt7b.h>
-#include <Fonts/TomThumb.h>
-#include <SPI.h>
-#include <Wire.h>            // For I2C communication
